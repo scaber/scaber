@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello there, my name is Tayfun Kılıç  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
+<h1 align = "center"> Hello there, my name is Tayfun  <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"></h1>
 Pleasure to meet you. I'm a computer engineer and software specialist 💻 living in  <b>Ankara</b>. 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
