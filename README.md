@@ -2,7 +2,7 @@
 Pleasure to meet you. I'm a computer engineer and software specialist 💻 living in  <b>Ankara</b>. 
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/.Net or React 
+- 💬 &nbsp;Ask me about anything related to React, Javascript/Typescript/.Net or  Java 
 
   <p align="left"><a href="https://github.com/scaber?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=scaber&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/scaber?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=scaber&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
 <h3 align="center">Find me on</h3>
